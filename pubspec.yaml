@@ -33,6 +33,7 @@ dependencies:
   provider: ^4.3.1 # for State management
   flutter_custom_clippers: ^1.1.1 # for showing curves on UI
   rflutter_alert: ^1.0.3 #for custom alert dialog
+  flutter_email_sender: ^5.0.0
 
 dev_dependencies:
   flutter_test:

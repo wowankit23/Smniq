@@ -3,6 +3,7 @@ import 'package:intl/intl.dart';
 import 'package:flutter/material.dart';
 
 import '../Utils/Constants.dart';
+import 'contact/contact_page.dart';
 
 class Booking extends StatefulWidget {
   static String TAG = '/BOOKING';
@@ -188,7 +189,10 @@ class _BookingState extends State<Booking> {
           ),
           Spacer(),
           ElevatedButton(
-            onPressed: () {},
+            onPressed: () {
+              Navigator.of(context).push(MaterialPageRoute(
+                  builder: (context) => ContactPage()));
+            },
             child: Text(JOIN),
           )
         ],

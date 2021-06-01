@@ -62,6 +62,12 @@
       "languageVersion": "2.1"
     },
     {
+      "name": "flutter_email_sender",
+      "rootUri": "file:///Users/superman/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_email_sender-5.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_svg",
       "rootUri": "file:///Users/superman/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_svg-0.20.0-nullsafety.3",
       "packageUri": "lib/",
@@ -200,7 +206,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-06-01T16:07:27.120558Z",
+  "generated": "2021-06-01T17:03:40.584693Z",
   "generator": "pub",
   "generatorVersion": "2.12.3"
 }

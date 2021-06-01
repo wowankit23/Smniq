@@ -207,7 +207,8 @@ class _DashboardState extends State<Dashboard> {
       {bool isPinned = false}) {
     return GestureDetector(
       onTap: () {
-        Navigator.pushNamed(context, Booking.TAG);
+        Navigator.of(context).push(MaterialPageRoute(
+            builder: (context) => Booking()));
       },
       child: Card(
         margin: EdgeInsets.all(0),
