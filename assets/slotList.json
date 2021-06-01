@@ -1,0 +1,62 @@
+[
+    {
+        "slotST": "06:00PM",
+        "slotET": "07:00PM",
+        "childSlots": [
+            {
+                "ST": "06:00PM",
+                "ET": "06:15PM",
+                "filled": 20,
+                "fillStatus": "Available"
+            },
+            {
+                "ST": "06:15PM",
+                "ET": "06:30PM",
+                "filled": 80,
+                "fillStatus": "Almost Full"
+            },
+            {
+                "ST": "06:30PM",
+                "ET": "06:45PM",
+                "filled": 80,
+                "fillStatus": "Almost Full"
+            },
+            {
+                "ST": "06:45PM",
+                "ET": "07:00PM",
+                "filled": 50,
+                "fillStatus": "Filling Fast"
+            }
+        ]
+    },
+    {
+        "slotST": "07:00PM",
+        "slotET": "08:00PM",
+        "childSlots": [
+            {
+                "ST": "07:00PM",
+                "ET": "07:15PM",
+                "filled": 20,
+                "fillStatus": "Available"
+            },
+            {
+                "ST": "07:15PM",
+                "ET": "07:30PM",
+                "filled": 80,
+                "fillStatus": "Almost Full"
+            },
+            {
+                "ST": "07:30PM",
+                "ET": "07:45PM",
+                "filled": 80,
+                "fillStatus": "Almost Full"
+            },
+            {
+                "ST": "07:45PM",
+                "ET": "08:00PM",
+                "filled": 50,
+                "fillStatus": "Filling Fast"
+            }
+        ]
+    }
+]
