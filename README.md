@@ -14,3 +14,13 @@ Modules covered in the task .
 --Selection of appointment.
 --Send mails to doctor.
 
+Screenshots of app
+1.Splash Screen
+
+![ScreenShot](https://raw.github.com/{wowankit23}/{Smniq}/{master}/{"https://github.com/wowankit23/Smniq/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202021-06-01%20at%2022.55.41%20%232.png"})
+
+2.Login Screen
+
+![ScreenShot](https://raw.github.com/{wowankit23}/{Smniq}/{master}/{"https://github.com/wowankit23/Smniq/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202021-06-01%20at%2022.55.50.png"})
+
+
