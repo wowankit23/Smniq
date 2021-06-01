@@ -25,7 +25,7 @@ Screenshots of app
 
 2.Contact Us Screen
 
-![ScreenShot](https://raw.github.com/{wowankit23}/{Smniq}/{master}/{"https://user-images.githubusercontent.com/3060682/120366832-c3272800-c32d-11eb-8aef-4d7ccc37df6a.png"})
+https://user-images.githubusercontent.com/3060682/120366832-c3272800-c32d-11eb-8aef-4d7ccc37df6a.png
 
 
 
