@@ -23,9 +23,20 @@ Screenshots of app
 
 ![ScreenShot](https://raw.github.com/{wowankit23}/{Smniq}/{master}/{"https://github.com/wowankit23/Smniq/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202021-06-01%20at%2022.55.50.png"})
 
-2.Contact Us Screen
+More Screen Shots are in screen shot folder.
 
-https://user-images.githubusercontent.com/3060682/120366832-c3272800-c32d-11eb-8aef-4d7ccc37df6a.png
+For State Management I used Provider Library , Other library used in making project .
+
+  intl: ^0.16.1
+  flutter_svg: ^0.20.0-nullsafety.3
+  provider: ^4.3.1 # for State management
+  flutter_custom_clippers: ^1.1.1 # for showing curves on UI
+  rflutter_alert: ^1.0.3 #for custom alert dialog
+  flutter_email_sender: ^5.0.0
+  
+#################  FLOW TEST #################
+
+Login the app with using test@gmail.com/12345678 .
 
 
 

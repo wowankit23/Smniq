@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Dr. Nema",
+        "spec": "Gynecologist, General Practitioner",
+        "loc": "Kothrud",
+        "isPinned": true
+    },
+    {
+        "name": "Kilbil's Children Clinic",
+        "spec": "Pediatrician",
+        "loc": "Baner",
+        "isPinned": false
+    },
+    {
+        "name": "Dr. Rashmi Gapchup",
+        "spec": "Pediatrician",
+        "loc": "Kothrud",
+        "isPinned": false
+    },
+    {
+        "name": "Dr. Nema",
+        "spec": "Gynecologist, General Practitioner",
+        "loc": "Kothrud",
+        "isPinned": true
+    },
+    {
+        "name": "Kilbil's Children Clinic",
+        "spec": "Pediatrician",
+        "loc": "Baner",
+        "isPinned": false
+    },
+    {
+        "name": "Dr. Rashmi Gapchup",
+        "spec": "Pediatrician",
+        "loc": "Kothrud",
+        "isPinned": false
+    }
+]
